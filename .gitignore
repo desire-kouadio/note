@@ -1,0 +1,4 @@
+# Ignorer les fichiers non nécessaires pour Git
+venv/
+__pycache__/
+*.pyc
