@@ -2,7 +2,7 @@
 
 ## Description
 
-Une brève description du projet.
+Une brève description du project.
 
 ## Installation
 
@@ -21,4 +21,3 @@ poetry run python src/main.py
 ```bash
 poetry run pytest
 ```
-
